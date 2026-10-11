@@ -2,4 +2,3 @@
 Тема звіту: stash і revert (lab3-v3)
 Тема звіту: stash і revert (lab3-v3)
 Уточнення варіанта 3
-РЕЖИМ: debug-forever
